@@ -558,8 +558,8 @@
         "hiddenIn": [],
         "family": "grid-table",
         "component": "Grid",
-        "feature": "Cell, row and column selection",
-        "lookFor": "Switch between cell, row, column and combined selection, then change the grid height."
+        "feature": "Cell, column, row and combined selection models on a weekly staffing roster",
+        "lookFor": "The active selection model is named above the grid. Click a cell, then move the selection with the arrow keys; switch the model on the right."
     },
     {
         "id": "grid-content-sized-rows",

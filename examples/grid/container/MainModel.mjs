@@ -9,16 +9,28 @@ class MainModel extends Model {
         className: 'Neo.examples.grid.container.MainModel',
 
         fields: [{
-            name: 'country',
+            name: 'name',
             type: 'String'
         }, {
-            name: 'firstname',
+            name: 'role',
             type: 'String'
         }, {
-            name: 'githubId',
+            name: 'site',
             type: 'String'
         }, {
-            name: 'lastname',
+            name: 'mon',
+            type: 'String'
+        }, {
+            name: 'tue',
+            type: 'String'
+        }, {
+            name: 'wed',
+            type: 'String'
+        }, {
+            name: 'thu',
+            type: 'String'
+        }, {
+            name: 'fri',
             type: 'String'
         }]
     }
